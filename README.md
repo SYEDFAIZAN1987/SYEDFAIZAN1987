@@ -54,10 +54,7 @@
     </a> 
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> 
-    </a> 
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> 
-    </a> 
+    
 </p>
 
 
