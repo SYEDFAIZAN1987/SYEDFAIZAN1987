@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/faizan_data_ml" target="blank"><img src="https://img.shields.io/twitter/follow/faizan_data_ml?logo=twitter&style=for-the-badge" alt="faizan_data_ml" /></a> </p>
 
-- 🔭 I’m currently working on [REPP](https://github.com/SYEDFAIZAN1987/REPP.git)
+- 🔭 I’m currently working on [First Aid Tutor](https://github.com/SYEDFAIZAN1987/FirstAidTutor.git)
 
 - 🌱 I’m currently learning **PyTorch and Tensorflow**
 
