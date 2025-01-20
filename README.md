@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **REPP App development**
 
-- 🤝 I’m looking for help with [REPP Website Backend](https://github.com/SYEDFAIZAN1987/Platformwebsite.git)
+- 🤝 I’m looking for help with [Giskard Evaluation of First Aid Tutor](https://github.com/SYEDFAIZAN1987/First-Aid-Tutor.git)
 
 - 👨‍💻 All of my projects are available at [https://syedfaizan1987.github.io/Portfolio/](https://syedfaizan1987.github.io/Portfolio/)
 
