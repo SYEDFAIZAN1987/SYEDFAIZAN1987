@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Giskard Evaluation of First Aid Tutor](https://github.com/SYEDFAIZAN1987/First-Aid-Tutor.git)
 
-- 👨‍💻 All of my projects are available at [https://syedfaizan1987.github.io/Portfolio/](https://syedfaizan1987.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://syedfaizan1987.github.io/Portfolio/](https://syedfaizaan.com/portfolio/)
 
 - 💬 Ask me about **Data Analytics, AI in Health Care, NLP, Computer Vision for Medical Imaging Analysis.**
 
