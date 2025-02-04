@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/faizan_data_ml" target="blank"><img src="https://img.shields.io/twitter/follow/faizan_data_ml?logo=twitter&style=for-the-badge" alt="faizan_data_ml" /></a> </p>
 
-- 🔭 I’m currently working on [First Aid Tutor](https://github.com/SYEDFAIZAN1987/First-Aid-Tutor.git)
+- 🔭 I’m currently working on [3D segmentation of Liver](https://github.com/SYEDFAIZAN1987/3D-Liver-and-Liver-Tumor-Segmentation)
 
 - 🌱 I’m currently learning **PyTorch and Tensorflow**
 
 - 👯 I’m looking to collaborate on **REPP App development**
 
-- 🤝 I’m looking for help with [Giskard Evaluation of First Aid Tutor](https://github.com/SYEDFAIZAN1987/First-Aid-Tutor.git)
+- 🤝 I’m looking for help with [Help with MONAI and 3D Slicer](https://github.com/SYEDFAIZAN1987/3D-Liver-and-Liver-Tumor-Segmentation)
 
 - 👨‍💻 All of my projects are available at [my official website](https://syedfaizaan.com/portfolio/)
 
